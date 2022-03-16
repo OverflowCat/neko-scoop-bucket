@@ -1,0 +1,13 @@
+{
+    "version": "4.9.2",
+    "homepage": "https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/tag/4.9.2",
+    "license": "GPL-3.0",
+    "url": "https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip",
+    "bin": "ShadowsocksR-dotnet4.0.exe",
+    "shortcuts": [
+        [
+            "ShadowsocksR.exe",
+            "ShadowsocksR"
+        ]
+    ]
+}
