@@ -16,7 +16,18 @@
             "hash": "2714194b8ce5f056e5a6a072e50c4497fd12fe20b1964a8e871bd9486a7bf08f"
         }
     },
-    "bin": "简悦 · 同步助手.exe",
+    "suggest": {
+        "Export": [
+            "pandoc"
+        ]
+    },
+    "bin": [
+        "简悦 · 同步助手.exe",
+        [
+            "简悦 · 同步助手.exe",
+            "simpread-sync-official"
+        ]
+    ],
     "shortcuts": [
         [
             "简悦 · 同步助手.exe",

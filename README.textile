@@ -1,0 +1,17 @@
+h1. Scoop Neko Bucket
+
+Manifests maintained by @OverflowCat for "Scoop":https://scoop.sh/, the Windows command-line installer.
+
+h2. Usage
+
+h3. Add the bucket
+
+bc. scoop bucket add neko https://github.com/OverflowCat/neko-scoop-bucket
+
+h2. Apps
+
+* @shadowsocksrr@
+* @simpread-sync@
+* @simpread-sync-cli@
+* @spacedscreenshot@
+* @sm18-lazy-package@
