@@ -10,8 +10,8 @@ bc. scoop bucket add neko https://github.com/OverflowCat/neko-scoop-bucket
 
 h2. Apps
 
-* @shadowsocksrr@
-* @simpread-sync@
-* @simpread-sync-cli@
-* @spacedscreenshot@
-* @sm18-lazy-package@
+* "@shadowsocksrr@":https://github.com/shadowsocksrr/shadowsocksr-csharp/
+* "@simpread-sync@":http://ksria.com/simpread/docs/#/Sync: 简悦 · 同步助手（官方 Electron 版）
+* "@simpread-sync-cli@":https://github.com/j1g5awi/simpread-sync: 简悦 · 同步助手（Go 命令行版）
+* "@spacedscreenshot@":https://github.com/OverflowCat/SpacedScreenshot
+* "@sm18-lazy-package@":https://github.com/L-M-Sherlock/sm18-lazy-package：Supermemo 18 中文懒人包
