@@ -1,6 +1,6 @@
 {
     "version": "1.1.1.702",
-    "description": "简悦 · 同步助手——随简悦 2.1.0 发布的一个全新的 Desktop App，用于对简悦已知功能的补充，以及持续提供更多的可玩性。",
+    "description": "简悦 · 同步助手（官方 Electron 版）——随简悦 2.1.0 发布的一个全新的 Desktop App，用于对简悦已知功能的补充，以及持续提供更多的可玩性。",
     "homepage": "http://ksria.com/simpread/docs/#/Sync",
     "license": {
         "identifier": "Freeware",
