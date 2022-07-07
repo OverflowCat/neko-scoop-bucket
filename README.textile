@@ -14,4 +14,4 @@ h2. Apps
 * "@simpread-sync@":http://ksria.com/simpread/docs/#/Sync: 简悦 · 同步助手（官方 Electron 版）
 * "@simpread-sync-cli@":https://github.com/j1g5awi/simpread-sync: 简悦 · 同步助手（Go 命令行版）
 * "@spacedscreenshot@":https://github.com/OverflowCat/SpacedScreenshot
-* "@sm18-lazy-package@":https://github.com/L-M-Sherlock/sm18-lazy-package：Supermemo 18 中文懒人包
+* "@sm18-lazy-package@":https://github.com/L-M-Sherlock/sm18-lazy-package: Supermemo 18 中文懒人包
