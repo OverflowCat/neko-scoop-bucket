@@ -1,5 +1,5 @@
 {
-    "version": "1.1.1.702",
+    "version": "1.1.2",
     "description": "简悦 · 同步助手（官方 Electron 版）——随简悦 2.1.0 发布的一个全新的 Desktop App，用于对简悦已知功能的补充，以及持续提供更多的可玩性。",
     "homepage": "http://ksria.com/simpread/docs/#/Sync",
     "license": {
@@ -8,12 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OverflowCat/neko-scoop-bucket/releases/download/simpread-1.1.1.702/simpread-sync-1.1.1.702@win64.zip",
-            "hash": "4b519022c3d7d156471f81aef625c24204191e520a56f99712afd2ca3886d545"
-        },
-        "32bit": {
-            "url": "https://github.com/OverflowCat/neko-scoop-bucket/releases/download/simpread-1.1.1.702/simpread-sync-1.1.1.702@win32.zip",
-            "hash": "2714194b8ce5f056e5a6a072e50c4497fd12fe20b1964a8e871bd9486a7bf08f"
+            "url": "https://github.com/OverflowCat/neko-scoop-bucket/releases/download/simpread-1.1.2/simpread-sync-1.1.2@win64.zip",
+            "hash": "ce76fd36b19c330f1c119efefeb30915e79f928b275fddf9ee2832386adce3f2"
         }
     },
     "suggest": {
